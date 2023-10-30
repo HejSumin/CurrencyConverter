@@ -1,0 +1,13 @@
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.deps.json
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.runtimeconfig.json
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.runtimeconfig.dev.json
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.dll
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.pdb
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.csproj.AssemblyReference.cache
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.AssemblyInfoInputs.cache
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.AssemblyInfo.cs
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.csproj.CoreCompileInputs.cache
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.dll
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.pdb
+/Users/sumin/Desktop/Aiia/Rider/CurrencyConverter/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.genruntimeconfig.cache
